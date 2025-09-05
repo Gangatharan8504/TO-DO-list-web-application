@@ -65,3 +65,15 @@ http://localhost:3000**
 -**Click Delete to remove it.**
 
 ---
+## project structure
+todo-list-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.js         # Main App component
+│   ├── TodoList.js    # To-Do List component
+│   ├── index.js       # App entry point
+│   └── index.css      # Global styles
+├── package.json
+└── README.md
+
